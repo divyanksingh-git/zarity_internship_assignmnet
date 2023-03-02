@@ -10,11 +10,11 @@ video link - https://youtube.com/shorts/4WFBxCCJUeM
 
 # Dependencies
  
- percent_indicator: ^4.0.1
- curved_navigation_bar: ^1.0.3
- get_storage: ^1.4.0
- cloud_firestore: ^0.16.0+1
- firebase_core: ^0.7.0
+ 1. percent_indicator: ^4.0.1
+ 2. curved_navigation_bar: ^1.0.3
+ 3. get_storage: ^1.4.0
+ 4. cloud_firestore: ^0.16.0+1
+ 5. firebase_core: ^0.7.0
  
  # Task and Cta data is stored on firebase
 
